@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GOLEMWORKS
-- 👀 I’m interested in game development on Unity
-- 🌱 I’m currently learning C#, PHP, JS, HTML5
+- 👋 Hi, I’m @GOLEMWORKS, or Vladimir
+- 👀 I’m interested in game development on Unity and WEB-development on .NET platform
+- 🌱 I’m currently learning C#, ASP .NET Core MVC and Razor pages. Trying to do something playeable on unity. 
 - 💞️ I’m looking to collaborate on IDK, someone :D
 - 📫 How to reach me: Discord Server - https://discord.gg/cDBXbAWSp9
 
