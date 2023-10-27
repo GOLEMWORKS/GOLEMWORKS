@@ -6,6 +6,13 @@ PHP frameworks, React etc.
 
 Wana contribute? Text me ;)
 How to reach me:
+
+<ul>
+  <li> Telegram - https://t.me/system_rabotaem </li>
+  <li> Discord - https://discord.gg/cDBXbAWSp9  </li>
+  <li> VK -  https://vk.com/vladimirkorotkikh </li>
+</ul>
+
 Telegram - https://t.me/system_rabotaem
 Discord - https://discord.gg/cDBXbAWSp9 
 VK -  https://vk.com/vladimirkorotkikh
