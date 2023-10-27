@@ -1,11 +1,13 @@
 ✨ Welcome to my profile! ✨
 
-Web-ddevelopment student from Kaliningrad, Russia.
-Currenty learning .NET platform and some other stuff like
+Web-development student from Kaliningrad, Russia. </br>
+Currenty learning .NET platform and some other stuff like </br>
 PHP frameworks, React etc.
 
-Wana contribute? Text me ;)
+Wana contribute? Text me ;) </br>
 How to reach me:
+
+<hr>
 
 <ul>
   <li> Telegram - https://t.me/system_rabotaem </li>
