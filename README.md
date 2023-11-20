@@ -4,8 +4,7 @@ Web-development student from Kaliningrad, Russia. </br>
 Currenty learning .NET platform and some other stuff like </br>
 PHP frameworks, React etc.
 
-Wanna contribute? Text me ;) </br>
-How to reach me:
+Open to all contributions :)
 
 <hr>
 
