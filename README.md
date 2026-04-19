@@ -1,16 +1,14 @@
 ✨ Welcome to my profile! ✨
 
-Web-development student from Kaliningrad, Russia. </br>
-Currenty learning .NET platform and some other stuff like </br>
-PHP frameworks, React etc.
+Just a chill guy and fullstack developer.
+Flutter, linux embedded, python fastapi etc...
 
-Open to all contributions :)
+Open to dialogue and contributions 
 
 <hr>
 
 <ul>
-  <li> Telegram - https://t.me/system_rabotaem </li>
-  <li> Discord - https://discord.gg/cDBXbAWSp9  </li>
+  <li> Telegram - @golem4ikus </li>
   <li> VK -  https://vk.com/vladimirkorotkikh </li>
 </ul>
 
