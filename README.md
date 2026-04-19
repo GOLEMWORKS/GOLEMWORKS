@@ -1,7 +1,6 @@
 ✨ Welcome to my profile! ✨
 
-Just a chill guy and fullstack developer.
-Flutter, linux embedded, python fastapi etc...
+Just a chill guy and fullstack developer. .NET, Flutter, linux embedded, python fastapi etc...
 
 Open to dialogue and contributions 
 
